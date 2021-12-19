@@ -1,4 +1,4 @@
-package com.raus.pickyTrees;
+package com.chai.pickyTrees;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
